@@ -144,7 +144,9 @@
     <ClCompile Include="1018_체스_진지하게.cpp" />
     <ClCompile Include="1037_약수.cpp" />
     <ClCompile Include="1065_한수.cpp" />
+    <ClCompile Include="1085_직사각형에서 탈출.cpp" />
     <ClCompile Include="1436_영화감독 숌.cpp" />
+    <ClCompile Include="1929_소수 구하기.cpp" />
     <ClCompile Include="2480_주사위 세 개.cpp" />
     <ClCompile Include="10809_알파벳 찾기.cpp" />
     <ClCompile Include="1152_단어의 개수.cpp" />
